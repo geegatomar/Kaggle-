@@ -1,2 +1,2 @@
 # Kaggle
-All of my Kaggle competitions
+All of my Kaggle competitions and projects
